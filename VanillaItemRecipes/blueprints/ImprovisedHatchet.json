@@ -1,0 +1,18 @@
+{
+    "Name": "Improvised Hatchet",
+    "RequiredGear": ["GEAR_ScrapMetal","GEAR_Cloth"],
+    "RequiredGearUnits": [2,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_HatchetImprovised",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

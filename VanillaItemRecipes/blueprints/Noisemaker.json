@@ -1,0 +1,18 @@
+{
+    "Name": "Noisemaker",
+    "RequiredGear": ["GEAR_RecycledCan","GEAR_Cloth","GEAR_ScrapMetal"],
+    "RequiredGearUnits": [1,1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.5,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Noisemaker",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 45,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

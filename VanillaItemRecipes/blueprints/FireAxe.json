@@ -1,0 +1,18 @@
+{
+    "Name": "Fire Axe",
+    "RequiredGear": ["GEAR_Hatchet","GEAR_ReclaimedWoodB","GEAR_Cloth","GEAR_ScrapMetal","GEAR_SharpeningStone"],
+    "RequiredGearUnits": [1,1,1,1,1],
+    "KeroseneLitersRequired": 0.1,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": true,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FireAxe",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "Play_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Survival Bow",
+    "RequiredGear": ["GEAR_MapleSaplingDried","GEAR_Line","GEAR_Cloth"],
+    "RequiredGearUnits": [1,1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 300,
+    "CraftingAudio": "Play_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

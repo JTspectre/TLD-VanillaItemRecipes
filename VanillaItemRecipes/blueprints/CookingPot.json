@@ -1,0 +1,18 @@
+{
+    "Name": "CookingPot",
+    "RequiredGear": ["GEAR_ScrapMetal"],
+    "RequiredGearUnits": [4],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": true,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CookingPot",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

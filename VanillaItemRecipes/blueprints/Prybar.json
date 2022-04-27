@@ -1,0 +1,18 @@
+{
+    "Name": "Prybar",
+    "RequiredGear": ["GEAR_ScrapMetal"],
+    "RequiredGearUnits": [6],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": true,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Prybar",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
