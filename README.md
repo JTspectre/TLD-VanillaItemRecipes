@@ -7,3 +7,7 @@ If you are looking for "god" blueprints, look elsewhere.
 * Download and install [ModComponentExtractor.exe](https://github.com/ds5678/ModComponentExtractor/releases/latest)
 * Drag the `VanillaItemRecipes` folder to `ModComponentExtractor.exe`
 * Move the resulting `VanillaItemRecipes.modcomponent` to your /mods folder
+
+## Credits:
+Hinterland Studios
+The Long Dark Modding discord server
