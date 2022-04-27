@@ -10,4 +10,5 @@ If you are looking for "god" blueprints, look elsewhere.
 
 ## Credits:
 Hinterland Studios
+
 The Long Dark Modding discord server
