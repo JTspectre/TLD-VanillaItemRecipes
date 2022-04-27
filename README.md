@@ -6,4 +6,4 @@ If you are looking for "god" blueprints, look elsewhere.
 ## Installation
 * Download and install [ModComponentExtractor.exe](https://github.com/ds5678/ModComponentExtractor/releases/latest)
 * Drag `VanillaItemRecipes`folder to `ModComponentExtractor.exe`
-* Move `VanillaItemRecipes.modcomponent` to your /mods folder
+* Move the resulting `VanillaItemRecipes.modcomponent` to your /mods folder
