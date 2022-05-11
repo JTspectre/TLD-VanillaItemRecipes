@@ -1,5 +1,5 @@
-Recipes for vanilla items in The Long Dark. I try to keep them realistic.
-There are a few "helper" blueprints like `StoneMultiplier.json`.
+Recipes for vanilla items in The Long Dark.
+There are a few "helper" blueprints.
 If you are looking for "god" blueprints, look elsewhere.
 
 ## Installation
@@ -8,6 +8,5 @@ If you are looking for "god" blueprints, look elsewhere.
 * Move the resulting `VanillaItemRecipes.modcomponent` to your /mods folder
 
 ## Special thanks to:
-Hinterland Studios
-
-The Long Dark Modding discord server
+* Hinterland Studios
+* [The Long Dark Modding discord server](https://discord.gg/DmEZK4XZ3g)
